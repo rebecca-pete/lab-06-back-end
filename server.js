@@ -3,7 +3,7 @@
 // immediate import and configuration
 require('dotenv').config();
 
-// global constants 
+// global constants  
 const PORT = process.env.PORT || 3000 ;
 const express = require('express');
 const cors = require('cors');
